@@ -1,7 +1,7 @@
 # Octave
 This tweak brings the Apple Music experience to your lockscreen music player!
 
-<img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image0.jpeg?raw=true"> <img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image1.jpeg?raw=true"> <img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image2.jpeg?raw=true">
+<img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image1.jpeg?raw=true"> <img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image2.jpeg?raw=true"> <img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image3.jpeg?raw=true"><br><img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image4.jpeg?raw=true"> <img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image5.jpeg?raw=true"> <img width=200 src="https://github.com/minh-ton/Octave/blob/main/img/image6.jpeg?raw=true">
 
 This is a tweak that I created and abandoned (since I stopped jailbreaking my iPhone) back in 2021. I've just came across the source code of this tweak recently, and I feel like publishing this (still incomplete) tweak on GitHub for archival is a great idea!
 
