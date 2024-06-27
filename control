@@ -1,0 +1,9 @@
+Package: me.minhton.octave
+Name: Octave
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MinhTon <ford.tonthat@gmail.com>
+Author: MinhTon <ford.tonthat@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
